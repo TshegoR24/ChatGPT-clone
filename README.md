@@ -30,3 +30,5 @@ This project was created by Tshegofatso Rakoma.
 
 License
 This project is licensed under the MIT License.
+
+https://www.buymeacoffee.com/cavinrakomp
